@@ -2,7 +2,7 @@
 
 # Author : Boychongzen aka Xroot
 
-# Eksekusi Via Windows
+# Eksekusi Via Windows & Linux
 
 git clone https://github.com/boychongzen18/ShodanSearch.git
 
