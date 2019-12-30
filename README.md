@@ -33,7 +33,7 @@ pip2 install -r requirements.txt
 
 python2 shodansearch.py
 
-# Tampilan Shodan Search For Windows Seven
+# Tampilan Shodan Search For Termux
 ![be](https://raw.githubusercontent.com/boychongzen18/ShodanSearch/master/termux.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/ShodanSearch/master/termux1.jpg)
 
