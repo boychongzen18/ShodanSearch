@@ -2,6 +2,17 @@
 
 # Author : Boychongzen aka Xroot
 
+# Eksekusi Via Windows
+
+git clone https://github.com/boychongzen18/ShodanSearch.git
+
+cd ShodanSearch
+
+chmod 777 shodansearch.py
+
+pip install -r requirements.txt
+
+python shodansearch.py
 
 # Tampilan Shodan Search For Windows Seven
 ![be](https://raw.githubusercontent.com/boychongzen18/ShodanSearch/master/shodan.jpg)
