@@ -14,6 +14,8 @@ pip install -r requirements.txt
 
 python shodansearch.py
 
+Login Shodan : https://www.shodan.io
+
 # Tampilan Shodan Search For Windows Seven
 ![be](https://raw.githubusercontent.com/boychongzen18/ShodanSearch/master/shodan.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/ShodanSearch/master/shodan1.jpg)
@@ -32,6 +34,8 @@ chmod 777 shodansearch.py
 pip2 install -r requirements.txt
 
 python2 shodansearch.py
+
+Login Shodan : https://www.shodan.io
 
 # Tampilan Shodan Search For Termux
 ![be](https://raw.githubusercontent.com/boychongzen18/ShodanSearch/master/termux.jpg)
