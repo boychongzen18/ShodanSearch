@@ -17,6 +17,22 @@ python shodansearch.py
 # Tampilan Shodan Search For Windows Seven
 ![be](https://raw.githubusercontent.com/boychongzen18/ShodanSearch/master/shodan.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/ShodanSearch/master/shodan1.jpg)
+# Eksekusi Via Termux
+
+pkg update && pkg upgrade -y
+
+pkg install python python2 git -y
+
+git clone https://github.com/boychongzen18/ShodanSearch.git
+
+cd ShodanSearch
+
+chmod 777 shodansearch.py
+
+pip2 install -r requirements.txt
+
+python2 shodansearch.py
+
 
 
 
