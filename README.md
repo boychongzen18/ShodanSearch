@@ -48,7 +48,7 @@ dork : IPCamera_Logo,webcamxp
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial : https://youtu.be/0iwA-Uc_Oak
 
 My Website    : https://hackingforlive.wordpress.com
 
