@@ -16,7 +16,7 @@ python shodansearch.py
 
 Login Shodan : https://www.shodan.io
 
-dork : IPCamera_Logo,webcamxp
+dork : IPCamera_Logo,webcamxp,mikrotik,http 3.5.12,proxy 3.5.12,squid 3.5.12
 
 # Tampilan Shodan Search For Windows Seven
 ![be](https://raw.githubusercontent.com/boychongzen18/ShodanSearch/master/shodan.jpg)
@@ -39,7 +39,7 @@ python2 shodansearch.py
 
 Login Shodan : https://www.shodan.io
 
-dork : IPCamera_Logo,webcamxp
+dork : IPCamera_Logo,webcamxp,mikrotik,http 3.5.12,proxy 3.5.12,squid 3.5.12
 
 # Tampilan Shodan Search For Termux
 ![be](https://raw.githubusercontent.com/boychongzen18/ShodanSearch/master/termux.jpg)
